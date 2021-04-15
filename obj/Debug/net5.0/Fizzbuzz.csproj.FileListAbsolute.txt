@@ -1,0 +1,16 @@
+D:\FoldersnShit\TAFE_Work\Programming\FizzBuzz\bin\Debug\net5.0\Fizzbuzz.exe
+D:\FoldersnShit\TAFE_Work\Programming\FizzBuzz\bin\Debug\net5.0\Fizzbuzz.deps.json
+D:\FoldersnShit\TAFE_Work\Programming\FizzBuzz\bin\Debug\net5.0\Fizzbuzz.runtimeconfig.json
+D:\FoldersnShit\TAFE_Work\Programming\FizzBuzz\bin\Debug\net5.0\Fizzbuzz.runtimeconfig.dev.json
+D:\FoldersnShit\TAFE_Work\Programming\FizzBuzz\bin\Debug\net5.0\Fizzbuzz.dll
+D:\FoldersnShit\TAFE_Work\Programming\FizzBuzz\bin\Debug\net5.0\ref\Fizzbuzz.dll
+D:\FoldersnShit\TAFE_Work\Programming\FizzBuzz\bin\Debug\net5.0\Fizzbuzz.pdb
+D:\FoldersnShit\TAFE_Work\Programming\FizzBuzz\obj\Debug\net5.0\Fizzbuzz.csprojAssemblyReference.cache
+D:\FoldersnShit\TAFE_Work\Programming\FizzBuzz\obj\Debug\net5.0\Fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\FoldersnShit\TAFE_Work\Programming\FizzBuzz\obj\Debug\net5.0\Fizzbuzz.AssemblyInfoInputs.cache
+D:\FoldersnShit\TAFE_Work\Programming\FizzBuzz\obj\Debug\net5.0\Fizzbuzz.AssemblyInfo.cs
+D:\FoldersnShit\TAFE_Work\Programming\FizzBuzz\obj\Debug\net5.0\Fizzbuzz.csproj.CoreCompileInputs.cache
+D:\FoldersnShit\TAFE_Work\Programming\FizzBuzz\obj\Debug\net5.0\Fizzbuzz.dll
+D:\FoldersnShit\TAFE_Work\Programming\FizzBuzz\obj\Debug\net5.0\ref\Fizzbuzz.dll
+D:\FoldersnShit\TAFE_Work\Programming\FizzBuzz\obj\Debug\net5.0\Fizzbuzz.pdb
+D:\FoldersnShit\TAFE_Work\Programming\FizzBuzz\obj\Debug\net5.0\Fizzbuzz.genruntimeconfig.cache
